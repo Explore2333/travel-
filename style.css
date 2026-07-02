@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Myfont-Regular";
+    src: url("fonts/Myfont-Regular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.my-font {
+    font-family: "Myfont-Regular", serif;
+}
+
+body {
+    background-color: lightblue;
+}
